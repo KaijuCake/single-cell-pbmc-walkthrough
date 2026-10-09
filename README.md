@@ -1,7 +1,5 @@
 # What immune cells are in human blood? A single-cell tour (PBMC3k, Scanpy)
 
-## What is this? (no biology degree required)
-
 Your blood contains millions of immune cells — T cells, B cells, monocytes,
 natural killer cells — all mixed together, all looking fairly similar under a
 microscope. **Single-cell RNA sequencing** reads, for each individual cell,
